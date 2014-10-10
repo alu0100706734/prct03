@@ -1,0 +1,20 @@
+18
+
+Hello World
+   nil
+   
+   21
+	El primero ha sido interpretado mientras que el segundo compilado.
+	
+26
+    10
+     nil
+      nil
+	hello world
+	  bye bye world!!!
+	    value of x is 10
+	    
+	    27 Pry me ha permitido ejecutar el programa secuncialmente, como si fuera un menu
+	    repetitivo al que podía llamar a los diferentes comandos que ofrecía mi programa en tiempo de ejecución para así como poder modificar las variables.
+	    
+	    en cambio la ejecución directa simplemente me mostró la información y terminó la salida.
